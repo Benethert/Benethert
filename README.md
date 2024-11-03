@@ -1,6 +1,6 @@
 # María López Muelas 
 
-![coffee](https://raw.githubusercontent.com/Benethert/Benethert/68cefb426b415d08d2afbf97866ea1ea5bd456c8/COF.png "COF.png")
+![coffee](https://github.com/Benethert/Benethert/blob/pics/COF.png "COF.png") ![discord](https://github.com/Benethert/Benethert/blob/pics/DC.png "DC.png")
 
 
 
