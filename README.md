@@ -10,6 +10,7 @@ Generalista
 - 🎒 Estudio en el Centro Integral de Formación Profesional a Distancia "La Conservera" de la Región de Murcia
     - Asignatura 1
     - Asignatura 2
+    - Itinerario personal para la empleabilidad
 - ✉ 
 
 
