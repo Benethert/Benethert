@@ -30,6 +30,7 @@
 
 Estudio en el Centro Integral de Formación Profesional a Distancia "La Conservera" de la Región de Murcia
 
+- [x] ~~Entornos de Desarrollo~~
 - [] Bases de Datos
 - [] Programación
 - [] Sistemas Informáticos
