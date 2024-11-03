@@ -30,13 +30,12 @@
 
 Estudio en el Centro Integral de Formación Profesional a Distancia "La Conservera" de la Región de Murcia
 
-- [x] ~~Entornos de Desarrollo~~
-- [] Bases de Datos
-- [] Programación
-- [] Sistemas Informáticos
-- [] Inglés
-- [] Digitalización Aplicada al Sistema Productivo
-- [] Lenguajes de Marcas y Sistemas de Gestión de Información
+- [ ] Bases de Datos
+- [ ] Programación
+- [ ] Sistemas Informáticos
+- [ ] Inglés
+- [ ] Digitalización Aplicada al Sistema Productivo
+- [ ] Lenguajes de Marcas y Sistemas de Gestión de Información
 - [x] ~~Entornos de Desarrollo~~
 - [x] ~~Entornos de Desarrollo~~
 - [x] ~~Entornos de Desarrollo~~
