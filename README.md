@@ -57,10 +57,10 @@
 ## Stack Tecnológico del Curso 💾
 
 | Base de Datos | Lenguaje de Marcas | Programación | Entornos de Desarrollo |
-|---------------|:-------------------:|:------------:|:----------------------:|
+|:-------------:|:-------------------:|:------------:|:----------------------:|
 | MySQL         | HTML                | VSCode       | IntelliJ               |
 |               | CSS                 | JavaScript   |                        |
-|                |                    | C#            |                        |
+|               |                     | C#           |                        |
 
 <h2 align="center">🎃 Contacto 🎃</h2> 
 
