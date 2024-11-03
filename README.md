@@ -1,6 +1,6 @@
 # María López Muelas 
 
-![DEV](https://github.com/Benethert/Benethert/blob/pics/DEV.png "DEV.png") _ _ ![twitter](https://github.com/Benethert/Benethert/blob/pics/TW.png "TW.png") _ _ ![discord](https://github.com/Benethert/Benethert/blob/pics/DC.png "DC.png") _ _ ![coffee](https://github.com/Benethert/Benethert/blob/pics/COF.png "COF.png") 
+![DEV](https://github.com/Benethert/Benethert/blob/pics/DEV.png "DEV.png") -- ![twitter](https://github.com/Benethert/Benethert/blob/pics/TW.png "TW.png") -- ![discord](https://github.com/Benethert/Benethert/blob/pics/DC.png "DC.png") -- ![coffee](https://github.com/Benethert/Benethert/blob/pics/COF.png "COF.png") 
 
 
 
