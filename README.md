@@ -24,7 +24,7 @@
 - ✉ 
 
 
-<h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> </h2> 
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif">
 
 <h2 align="center">🎃 Estudios 🎃</h2>
 
@@ -37,10 +37,8 @@ Estudio en el Centro Integral de Formación Profesional a Distancia "La Conserve
 - [ ] Digitalización Aplicada al Sistema Productivo
 - [ ] Lenguajes de Marcas y Sistemas de Gestión de Información
 - [x] ~~Entornos de Desarrollo~~
-- [x] ~~Entornos de Desarrollo~~
-- [x] ~~Entornos de Desarrollo~~
-
- 
+- [x] ~~Formación y Orientación Laboral~~
+- [x] ~~Empresa e Iniciativa Emprendedora~~ 
 
 
 ## Stack Tecnológico 🤖
