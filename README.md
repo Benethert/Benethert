@@ -1,6 +1,6 @@
 # María López Muelas 
 
-!COF.png
+!(https://github.com/Benethert/Benethert/blob/68cefb426b415d08d2afbf97866ea1ea5bd456c8/COF.png)
 
 ## 🌷 Sobre mí 🌷
 
