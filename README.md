@@ -1,12 +1,14 @@
-# María López Muelas 
+<h1 align="center">María López Muelas</h1>
 
-![DEV](https://github.com/Benethert/Benethert/blob/pics/DEV.png "DEV.png") -- ![twitter](https://github.com/Benethert/Benethert/blob/pics/TW.png "TW.png") -- ![discord](https://github.com/Benethert/Benethert/blob/pics/DC.png "DC.png") -- ![coffee](https://github.com/Benethert/Benethert/blob/pics/COF.png "COF.png") 
+<p align="center"> 
+<img src=https://github.com/Benethert/Benethert/blob/pics/DEV.png hspace="10"> <img src=https://github.com/Benethert/Benethert/blob/pics/TW.png hspace="10"> <img src=https://github.com/Benethert/Benethert/blob/pics/DC.png hspace="10"> <img src=https://github.com/Benethert/Benethert/blob/pics/COF.png hspace="10"> 
+</p>
 
-
+***
 
 ## 🌷 Sobre mí 🌷
 
-- ✨ ¡Buenas! Soy María, futura programadora web, ¿qué tal?
+- ✨ ¡Buenas! Soy María, bienvenid@ a mi perfil
 - 👀 Me gusta mucho el diseño web y de interfaces
 - 🌱 También estoy aprendiendo diseño gráfico
 - 📚 Estoy cursando la Formación Profesional de Grado Superior de Técnico Superior en Desarrollo de Aplicaciones Web
@@ -16,6 +18,7 @@
     - Itinerario personal para la empleabilidad
 - ✉ 
 
+<p align="center">Texto que debería ir centrado</p>
 
 <!---
 Benethert/Benethert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
