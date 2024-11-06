@@ -23,7 +23,7 @@
 - 👻 Me gusta mucho el desarrollo web y diseño de interfaces
 - 🌱 También estoy aprendiendo diseño gráfico
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height=20>
+
 
 <h2 align="center">🎃 Estudios 🎃</h2>
 
@@ -61,6 +61,14 @@
 | MySQL         | HTML                | VSCode       | IntelliJ               |
 |               | CSS                 | JavaScript   |                        |
 |               |                     | C#           |                        |
+
+<h3> PREFERENCIAS TECNOLÓGICAS </h3>
+
+- <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height=20> Frontend & Backend
+- <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height=20> Full-stack
+- <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height=20> Bases de datos
+- <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height=20> Diseño UI/UX
+- <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height=20> Ciberseguridad
 
 <h2 align="center">🎃 Contacto 🎃</h2> 
 
