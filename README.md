@@ -20,7 +20,7 @@
 <h2 align="center">🎃 Sobre mí 🎃</h2> 
 
 - 🌷 ¡Buenas! Soy María, bienvenid@ a mi perfil
-- 👻 Me gusta mucho el diseño web y de interfaces
+- 👻 Me gusta mucho el desarrollo web y diseño de interfaces
 - 🌱 También estoy aprendiendo diseño gráfico
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height=20>
@@ -43,18 +43,17 @@
 - [x] ~~Empresa e Iniciativa Emprendedora~~ 
 
 
-## Stack Tecnológico
+<h3> STACK TECNOLÓGICO </h3>
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="16" height="16"> HTML
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="16" height="16"> CSS
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="16" height="16"> Python
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="16" height="16"> Java
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="16" height="16"> TypeScript
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="16" height="16"> JavaScript
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="16" height="16"> C
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="16" height="16"> C++
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="16" height="16"> C#
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" width="16" height="16"> Visual Studio Code
 
-## Stack Tecnológico del Curso 💾
+<h3> STACK TECNOLÓGICO DEL CURSO </h3>
 
 | Base de Datos | Lenguaje de Marcas | Programación | Entornos de Desarrollo |
 |:-------------:|:-------------------:|:------------:|:----------------------:|
