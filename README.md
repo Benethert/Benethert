@@ -1,9 +1,6 @@
 <p align="center">
     <img src="https://github.com/Benethert/Benethert/blob/pics/portada.png" height=250>
-    <p>
 </p>
-
-<h1 align="center">María López Muelas</h1>
 
 <p align="center"> 
 <img src=https://github.com/Benethert/Benethert/blob/pics/DEV.png hspace="10"> <img src=https://github.com/Benethert/Benethert/blob/pics/TW.png hspace="10"> <img src=https://github.com/Benethert/Benethert/blob/pics/DC.png hspace="10"> <img src=https://github.com/Benethert/Benethert/blob/pics/COF.png hspace="10"> 
