@@ -4,7 +4,7 @@
 <br/>
 # Hola, soy María 👋
  
-### Desarrolladora Web Full Stack · UI/UX Enthusiast · Técnico Superior en DAW
+### Desarrolladora Web Full Stack · Técnico Superior en Desarrollo de Aplicaciones Web
  
 [![Gmail](https://img.shields.io/badge/benethert@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benethert@gmail.com)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/)
