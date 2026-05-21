@@ -1,78 +1,110 @@
-<p align="center">
-    <img src="https://github.com/Benethert/Benethert/blob/pics/portada.png" height=250>
-</p>
+<div align="center">
+<!-- BANNER -->
+<img src="https://github.com/Benethert/Benethert/blob/pics/portada.png" height="220" style="border-radius: 12px;" />
+<br/>
+# Hola, soy María 👋
+ 
+### Desarrolladora Web Full Stack · UI/UX Enthusiast · Técnico Superior en DAW
+ 
+[![Gmail](https://img.shields.io/badge/benethert@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benethert@gmail.com)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+ 
+</div>
 
-<p align="center"> 
-<img src=https://github.com/Benethert/Benethert/blob/pics/DEV.png hspace="10"> <img src=https://github.com/Benethert/Benethert/blob/pics/TW.png hspace="10"> <img src=https://github.com/Benethert/Benethert/blob/pics/DC.png hspace="10"> <img src=https://github.com/Benethert/Benethert/blob/pics/COF.png hspace="10"> 
-</p>
+---
+ 
+## 🙋‍♀️ Sobre mí
+ 
+Soy una desarrolladora web recién graduada en **Desarrollo de Aplicaciones Web** (IES José Planes, Murcia · 2026), apasionada por construir interfaces bonitas y funcionales. Me muevo con soltura entre el frontend y el backend, y disfruto especialmente del diseño UI/UX y la experiencia de usuario.
+ 
+- 🌍 Basada en **Murcia, España**
+- 💼 Abierta a **oportunidades laborales** como desarrolladora web
+- 🎨 En proceso de profundizar en **diseño gráfico y UX**
+- ⚡ Fun fact: si algo puede hacerse más bonito, lo haré más bonito
+---
+ 
+## 🛠️ Stack Tecnológico
+ 
+### 🌐 Frontend
+ 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+ 
+### ⚙️ Backend
+ 
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+ 
+### 🗄️ Bases de Datos
+ 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+ 
+### 🧰 Herramientas & Entornos
+ 
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+ 
+### 💻 Lenguajes adicionales
+ 
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+ 
+---
+ 
+## 🎯 Áreas de interés
+ 
+| Área | Nivel de interés |
+|------|:---:|
+| 🖥️ Frontend Development | ⭐⭐⭐⭐ |
+| 🔧 Backend Development | ⭐⭐⭐⭐⭐ |
+| 🎨 Diseño UI/UX | ⭐⭐⭐⭐ |
+| 🗄️ Bases de datos | ⭐⭐⭐ |
+| 🚀 DevOps | ⭐⭐⭐⭐ |
+| 🔐 Ciberseguridad | ⭐⭐⭐⭐ |
+ 
+---
+ 
+## 📚 Formación
+ 
+🎓 **Técnico Superior en Desarrollo de Aplicaciones Web (DAW)**  
+📍 IES José Planes · Murcia, España · 2024–2026  
+ 
+Durante mi formación trabajé con tecnologías como PHP/Laravel, Angular, MySQL, Docker y diseño de interfaces web, desarrollando proyectos tanto en frontend como en backend.
+ 
+---
+ 
+## 📊 GitHub Stats
+ 
+<div align="center">
 
-<!--- *** 
+<img src="https://github-readme-stats.vercel.app/api?username=Benethert&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" alt="María's GitHub Stats" />
 
-<details>
-    <br>
-    <summary align="center"> 🎃 Sobre mí 🎃</summary>
-    ¡Hola!
-</details> --->
+<br/>
 
-<h2 align="center">🎃 Sobre mí 🎃</h2> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benethert&layout=compact&theme=rose_pine&hide_border=true" alt="Top Languages" />
 
-- 🌷 ¡Buenas! Soy María, bienvenid@ a mi perfil
-- 👻 Me gusta mucho el desarrollo web y diseño de interfaces
-- 🌱 También estoy aprendiendo diseño gráfico
+</div>
 
-
-
-<h2 align="center">🎃 Estudios 🎃</h2>
-
-- Estoy cursando la Formación Profesional de Grado Superior de Técnico Superior en Desarrollo de Aplicaciones Web
-- Estudio en el Centro Integral de Formación Profesional a Distancia "La Conservera" de la Región de Murcia
-
-<h3> ASIGNATURAS MATRICULADAS </h3>
-
-- [ ] Bases de Datos
-- [ ] Programación
-- [ ] Sistemas Informáticos
-- [ ] Inglés
-- [ ] Digitalización Aplicada al Sistema Productivo
-- [ ] Lenguajes de Marcas y Sistemas de Gestión de Información
-- [x] ~~Entornos de Desarrollo~~
-- [x] ~~Formación y Orientación Laboral~~
-- [x] ~~Empresa e Iniciativa Emprendedora~~ 
-
-
-<h3> STACK TECNOLÓGICO </h3>
-
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="16" height="16"> HTML
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="16" height="16"> Java
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="16" height="16"> JavaScript
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="16" height="16"> CSS
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="16" height="16"> C
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="16" height="16"> C++
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="16" height="16"> C#
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" width="16" height="16"> Visual Studio Code
-
-<h3> STACK TECNOLÓGICO DEL CURSO </h3>
-
-| Base de Datos | Lenguaje de Marcas | Programación | Entornos de Desarrollo |
-|:-------------:|:-------------------:|:------------:|:----------------------:|
-| MySQL         | HTML                | VSCode       | IntelliJ               |
-|               | CSS                 | JavaScript   |                        |
-|               |                     | C#           |                        |
-
-<h3> PREFERENCIAS TECNOLÓGICAS </h3>
-
-- <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height=20> Frontend & Backend
-- <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height=20> DevOps
-- <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height=20> Bases de datos
-- <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height=20> Diseño UI/UX
-- <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height=20> Ciberseguridad
-
-<h2 align="center">🎃 Contacto 🎃</h2> 
-
-- ✉ "4360277@alu.murciaeduca.es"
-- 📞 (+34)744486021
-
-<!---
-Benethert/Benethert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+ 
+## 📬 Contacto
+ 
+¿Tienes un proyecto en mente o quieres colaborar? ¡Escríbeme!
+ 
+- ✉️ **Email:** [benethert@gmail.com](mailto:benethert@gmail.com)
+- 📞 **Teléfono:** (+34) 651 672 814
+---
+ 
+<div align="center">
+Gracias por visitar mi perfil ✨ — Siempre aprendiendo, siempre creando.
+ 
+</div>
